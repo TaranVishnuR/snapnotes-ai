@@ -1,2 +1,0 @@
- Today we are learning about machine learning. It is a method of teaching computers to learn from data.
- There are three main types, supervised and supervised and supervised and reinforcement training.
