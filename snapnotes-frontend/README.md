@@ -1,12 +1,17 @@
-# React + Vite
+🚀 SnapNotes AI
+Turn any classroom audio into concise notes, flashcards, and clear explanations — all powered by local AI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SnapNotes is a privacy-first EdTech tool that transforms recorded lectures and voice memos into structured study materials. It runs entirely offline using Whisper.cpp for transcription and local models like Phi (via Ollama) for summarization — no internet, no API keys, just learning on your terms.
 
-Currently, two official plugins are available:
+✨ Features
+🎙️ Voice-to-Notes — Record live or upload audio files
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✍️ AI Summaries & Flashcards — Crafted like a tutor for 10-year-olds
 
-## Expanding the ESLint configuration
+🧠 Local LLMs — Powered by Ollama (phi, multilingual-ready)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌍 Multilingual Support — English, Tamil, Hindi, French, Spanish
+
+💻 Offline Workflow — No cloud APIs, 100% local
+
+🎛️ Modern UI — Tabbed layout, waveform visualizer, upload/record toggle
